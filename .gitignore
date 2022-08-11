@@ -1,0 +1,5 @@
+id_bionic
+id_bionic.pub
+wordpress-compose.yaml
+.vagrant
+*.log
